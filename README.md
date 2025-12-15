@@ -112,7 +112,7 @@ Installation and Setup
 
 Clone the repository:
 ```text
-git clone https://github.com/your-username/document-qa-chatbot-rag.git
+https://github.com/DEVAnanda-Reddy/document-qa-chatbot-rag.git
 cd document-qa-chatbot-rag
 ```
 
