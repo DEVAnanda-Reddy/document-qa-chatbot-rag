@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+transformers
+torch
+accelerate
+faiss-cpu
+sentence-transformers
+pypdf
+streamlit
