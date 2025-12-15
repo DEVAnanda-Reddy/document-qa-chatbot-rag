@@ -5,7 +5,7 @@ A Retrieval-Augmented Generation based Document Question Answering Chatbot
 </p>
 
 <p align="center">
-  <img src="Screenshot.png" alt="Streamlit Chatbot UI" width="750">
+  <img src="screenshot.png" alt="Streamlit Chatbot UI" width="750">
 </p>
 
 ---
